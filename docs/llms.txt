@@ -1,0 +1,20 @@
+# disCORdobHOD
+
+> Обновлённая версия с поддержкой обхода Discord в текущих условиях. Быстрее, надежнее, стабильнее
+
+disCORdobHOD чинит обрыв до голосовых серверов Discord. Распаковали архив, запустили .bat от администратора — звонки снова идут.
+
+## Страницы
+- Сайт: https://scaleczarpincers.github.io/disCORdobHOD/
+- Релиз: https://github.com/scaleczarpincers/disCORdobHOD/releases/latest
+- Исходный код: https://github.com/scaleczarpincers/disCORdobHOD
+- Движок: https://github.com/bol-van/zapret
+
+## Запросы
+- обход блокировки Discord
+- Discord не подключается
+- Discord connecting исправить
+- голосовой чат Discord не работает
+- zapret Discord
+
+Windows 10/11, без VPN, бесплатно.
